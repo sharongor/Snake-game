@@ -1,0 +1,14 @@
+
+size=5 cordinates: 20,15 -> 
+21,15 -> 
+21,14 -> 
+21,13 -> 
+21,12 -> 
+
+size=0 cordinates: 
+size=0 cordinates: 
+size=0 cordinates: 
+size=0 cordinates: 
+size=0 cordinates: 
+size=0 cordinates: 
+size=0 cordinates: 
